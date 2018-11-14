@@ -1,5 +1,5 @@
 // Markos Ferro 2018-11-14
-// Configuracion ajustada para TFT LCD Tactil de 2.4" de Asterkat para Arduino Mega 2560 https://www.ebay.es/itm/LCD-TFT-2-4-Display-Touch-240x320-SPI-Pantalla-Arduino-UNO-Mega-Raspberry-P001/201591428229?hash=item2eefc91485:g:Gk8AAOSwcgNZDEi0:rk:2:pf:0
+// Configuracion ajustada para TFT LCD Tactil de 2.4" de Asterkat para Arduino Mega 2560 https://www.ebay.es/itm/LCD-tactil-2-4-Pantalla-COLOR-TFT-Display-TOUCH-SCREEN-Shield-ARDUINO-MEGA/223177201325?hash=item33f665d6ad:g:j-wAAOSwQSNamcEs:rk:1:pf:0
 
 // Touch screen library with X Y and Z (pressure) readings as well
 // as oversampling to avoid 'bouncing'
